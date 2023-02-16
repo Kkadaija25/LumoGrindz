@@ -108,7 +108,7 @@ You can find [Carlee](https://github.com/CarleeMarie) on Github
 You can find [KaDaija](https://github.com/Kkadaija25) on Github
 
 
-
+I sent my codes through the slack group messages but I did the CSS and handlebars.
 
 
 
